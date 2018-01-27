@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: c24d28d7526817c44b2b7961661ba425
+timeCreated: 1517089405
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ninjaswordslash_0
+    21300002: Ninjaswordslash_1
+    21300004: Ninjaswordslash_2
+    21300006: Ninjaswordslash_3
+    21300008: Ninjaswordslash_4
+    21300010: Ninjaswordslash_5
+    21300012: Ninjaswordslash_6
+    21300014: Ninjaswordslash_7
+    21300016: Ninjaswordslash_8
+    21300018: Ninjaswordslash_9
+    21300020: Ninjaswordslash_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ninjaswordslash_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2262
+        width: 1264
+        height: 1739
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_1
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2332
+        width: 1040
+        height: 1739
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_2
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2237
+        width: 963
+        height: 1739
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_3
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2254
+        width: 963
+        height: 1739
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_4
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 136
+        width: 983
+        height: 1737
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_5
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 114
+        width: 1412
+        height: 1798
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_6
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 138
+        width: 1386
+        height: 1748
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_7
+      rect:
+        serializedVersion: 2
+        x: 7955
+        y: 2214
+        width: 1563
+        height: 1807
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_8
+      rect:
+        serializedVersion: 2
+        x: 9695
+        y: 2206
+        width: 1109
+        height: 2185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninjaswordslash_9
+      rect:
+        serializedVersion: 2
+        x: 10930
+        y: 2206
+        width: 1622
+        height: 1932
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 109}
+    - name: Ninjaswordslash_10
+      rect:
+        serializedVersion: 2
+        x: 12544
+        y: 2206
+        width: 1735
+        height: 1815
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 42}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
