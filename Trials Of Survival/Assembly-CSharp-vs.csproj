@@ -47,7 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\Player.cs" />
+=======
+>>>>>>> 21d2024a367f6c29b56e74a7b0faa0c8c8db039c
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
