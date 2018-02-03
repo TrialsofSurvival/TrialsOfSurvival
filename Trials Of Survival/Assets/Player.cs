@@ -7,6 +7,7 @@ public class Player : MonoBehaviour {
 	public KeyCode Right;
 	public KeyCode Down;
 	public KeyCode Up;
+	public KeyCode Jump;
 	public float speed;
 	public bool upAndDown;
 
@@ -23,7 +24,7 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-		if (cam.transform.position.y <= -81 || cam.transform.position.y >= 82) {
+		if (this.transform.position.y <= -80 || this.transform.position.y >= 81) {
 
 		} else {
 			cam.transform.position = new Vector3 (0, this.gameObject.transform.position.y, -1250);
@@ -43,6 +44,8 @@ public class Player : MonoBehaviour {
 			ninja.velocity = new Vector2 (ninja.velocity.x, +speed);
 		} else if (Input.GetKey (Down) && upAndDown) {
 			ninja.velocity = new Vector2 (ninja.velocity.x, -speed);
+		} else if (Input.GetKeyDown (Jump)) {
+			ninja.velocity = new Vector2 (ninja.velocity.x, +150);
 		}
 		//if thats false ^ then do this no matter what
 		else
@@ -59,5 +62,6 @@ public class Player : MonoBehaviour {
 		if (Input.GetButtonDown ("Fire1")) {
 			anim.Play ("Sword");
 		}
+
 	}
 }
