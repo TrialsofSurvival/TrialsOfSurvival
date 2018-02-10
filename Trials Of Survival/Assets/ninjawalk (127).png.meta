@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4edab09f61a0cdf48a28bed152c516e1
-timeCreated: 1517684379
+timeCreated: 1518287219
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -61,16 +61,6 @@ TextureImporter:
         y: 46
         width: 1223
         height: 1705
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: ninjawalk (127)_1
-      rect:
-        serializedVersion: 2
-        x: 1292
-        y: 80
-        width: 874
-        height: 1667
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
